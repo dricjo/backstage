@@ -1,5 +1,11 @@
 # @backstage/plugin-catalog
 
+## 0.2.13
+
+### Patch Changes
+
+- a4e636c8f: Hide the kind of owners in the about card if it's the default kind (group)
+
 ## 0.2.12
 
 ### Patch Changes
